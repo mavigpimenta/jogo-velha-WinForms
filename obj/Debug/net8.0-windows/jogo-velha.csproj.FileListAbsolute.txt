@@ -1,0 +1,17 @@
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\bin\Debug\net8.0-windows\jogo-velha.exe
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\bin\Debug\net8.0-windows\jogo-velha.deps.json
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\bin\Debug\net8.0-windows\jogo-velha.runtimeconfig.json
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\bin\Debug\net8.0-windows\jogo-velha.dll
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\bin\Debug\net8.0-windows\jogo-velha.pdb
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo_velha.Form1.resources
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.AssemblyInfoInputs.cache
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.AssemblyInfo.cs
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.dll
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\refint\jogo-velha.dll
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.pdb
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo-velha.genruntimeconfig.cache
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\ref\jogo-velha.dll
+C:\Users\Aluno\Source\Repos\jogo-velha\jogo-velha\obj\Debug\net8.0-windows\jogo_velha.Properties.Resources.resources
